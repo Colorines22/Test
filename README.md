@@ -30,3 +30,13 @@ Este sitio de construyó usando [Google](https://www.google.com/) [https://www.g
 1. Primer elemento
       - Segundo elemento
          - Tercer elemento
+👍❤
+
+
+| Encabezado 1️⃣ | Allahuackbar 2️⃣|  Encabezado 3️⃣ |
+|------------| -------------| -------------|
+| Primero | Si | Si |
+| Primero | Si | Si |
+| Primero | Si | Si |
+| Primero | Si | Si |
+
