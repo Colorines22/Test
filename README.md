@@ -40,7 +40,7 @@ Este sitio de construyó usando [Google](https://www.google.com/) [https://www.g
 | Si | Si | Si |
 | Si | Si | Si |
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
